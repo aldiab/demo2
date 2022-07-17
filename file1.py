@@ -1,3 +1,2 @@
-#some python code
-Modified by Hamza Qasem 
+#some python code 
 Modified by Hamza Qasem 
